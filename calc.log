@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T06:40:56.456057700Z</date>
+  <millis>1610952056456</millis>
+  <nanos>57700</nanos>
+  <sequence>0</sequence>
+  <logger>com.psl.training.util.Calculator</logger>
+  <level>INFO</level>
+  <class>com.psl.training.util.Calculator</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>Divide by zero Exception!!!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T06:42:43.859452400Z</date>
+  <millis>1610952163859</millis>
+  <nanos>452400</nanos>
+  <sequence>0</sequence>
+  <logger>com.psl.training.util.Calculator</logger>
+  <level>INFO</level>
+  <class>com.psl.training.util.Calculator</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>Divide by zero Exception!!!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-18T14:53:18.892190200Z</date>
+  <millis>1610981598892</millis>
+  <nanos>190200</nanos>
+  <sequence>0</sequence>
+  <logger>com.psl.training.util.Calculator</logger>
+  <level>INFO</level>
+  <class>com.psl.training.util.Calculator</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>Divide by zero Exception!!!</message>
+</record>
+</log>
