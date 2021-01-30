@@ -10,5 +10,7 @@ public class TestMovie {
 		
 		
 		movieService.sortByLanguage(movieList);
+		movieService.sortByDuration(movieList);
+		movieService.sortByLanguageAndReleaseDate(movieList);
 	}
 }

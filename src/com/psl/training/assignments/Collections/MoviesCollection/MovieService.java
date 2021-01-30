@@ -24,6 +24,21 @@ public class MovieService {
 		for(Movie m:movieList) {
 			System.out.println(m);
 		}
+    }
+	public void sortByDuration(List<Movie> movieList) {
+		System.out.println("----Sorting movies by Duration----\n");
+		movieList.sort(new DurationSort());
+		for(Movie m:movieList) {
+			System.out.println(m);
+		}
+	}
+	
+	public void sortByLanguageAndReleaseDate(List<Movie> movieList) {
+		System.out.println("----Sorting movies by Language and Release date----\n");
+		movieList.sort(new LanguageAndReleasedateSort());
+		for(Movie m:movieList) {
+			System.out.println(m);
+		}
 	}
 	
 	
